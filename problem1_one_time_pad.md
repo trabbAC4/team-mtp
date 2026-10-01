@@ -1,7 +1,5 @@
 # Problem 1: Understanding the One-Time Pad
 
-_Reword this in your own words before submitting._
-
 ## Definition
 
 The one-time pad (OTP) encrypts a message m of n bits using a key k of the same length by bitwise XOR:
